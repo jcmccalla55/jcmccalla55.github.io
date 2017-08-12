@@ -1,0 +1,55 @@
+body{background-image: url(http://wallpapercave.com/wp/UVZlWCv.jpg);
+height: 100%; width: 100%;font-family: Arial;color:#d9e6f2; }
+
+div.heading{line-height: 200px}
+
+label{float: left; padding: 0 1em;text-align: center;}
+
+header{color: #d9e6f2;font-family: 'League Script', cursive;text-align: center;
+font-size:200%;padding-top: 1%;}
+
+div.ques1{background-color:black;text-align: center;padding-top: 10px; padding-bottom: 10px}
+
+footer{float: left}
+
+form.ques{
+	display: inline;text-align: center;
+}
+
+.myButton {
+	background-color:#78c2b8;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+
+}
+.myButton1 {
+	background-color:#78c2b8;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;}
+.myButton:hover {
+	background-color:#476e9e;}
+
+.myButton1:hover {
+	background-color:#476e9e;
+
+
